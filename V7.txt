@@ -1,4 +1,0 @@
-{
-    "update" : "no",
-    "linkupdate" : "https://google.com"
-}
